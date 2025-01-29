@@ -23,7 +23,7 @@ This template provides a streamlined setup for quickly starting Django projects 
 3. **Install precommit**:
    - Install precommit to handle checks before commit
      ```sh
-     pre-commit.ext install
+     pre-commit.exe install
      ```
 
 ## Dependency Management
